@@ -34,9 +34,7 @@ Users should be able to:
 ![](./images/screenshot-3.png)
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://6216594ff45d0e14479f3762--advice-generator-app27.netlify.app/)
 
 ## My process
 
